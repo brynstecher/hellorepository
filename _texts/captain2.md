@@ -6,7 +6,7 @@ editor: Alex Gil
 source: Poetry Foundation
 ---
 
-- O Captain! my Captain! our fearful trip is done;[^fn1]
+ O Captain! my Captain! our fearful trip is done;[^fn1]
 - The ship has weather’d every rack, the prize we sought is won,
 - The port is near, the bells I hear, the people all exulting,
 - While follow eyes the steady keel, the vessel grim and daring; 
