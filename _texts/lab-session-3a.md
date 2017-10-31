@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Lab Session 3a
+title: My Texts
 author: Bryn Stecher
 editor: Bryn Stecher
 source: Bryn's iPhone
