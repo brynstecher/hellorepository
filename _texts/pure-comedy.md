@@ -5,9 +5,9 @@ author: Father John Misty
 editor: Bryn Stecher
 source: Genius Lyrics
 ---
-
+<img src="assets/pure-comedy-cover.jpg">
 <a href="https://www.youtube.com/watch?v=gNwDxl4diyI">
-<img src="pure-comedy-cover.jpg">
+
 
 - [Taped news anchor: At six]
 - [Studio talk: For some reason when I go...]
