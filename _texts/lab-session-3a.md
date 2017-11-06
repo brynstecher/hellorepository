@@ -7,14 +7,14 @@ source: Bryn's iPhone
 ---
 
 - {:.indent-6} What's up? Saw you called
-- {:.indent-6} lol I need to show you the texts [^fn1]: 
+- {:.indent-6} lol I need to show you the texts[^fn1]
 - Hahaha I know I wanna see
 - {:.indent-6} U free now? 
-- I called bc I wanted canteen [^fn2]:
-- And thought u were in there [^fn3]:
+- I called bc I wanted canteen[^fn2]
+- And thought u were in there [^fn3]
 - {:.indent-6} lmao 
-- Ha ha but I made heather get me something [^fn4]:
-- {:.indent-6} No phones!! [^fn5]:
+- Ha ha but I made heather [^fn4] get me something
+- {:.indent-6} No phones!! [^fn5]
 
 
 <br>
